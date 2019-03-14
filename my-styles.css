@@ -3,13 +3,38 @@ body {
 	margin-top: 50px;
 }
 
-p,
-button {
+h1 {
+	color: #09b9f4;
+	margin-bottom: 5px;
+}
+
+p {
+	font-size: 18px;
 	cursor: pointer;
+}
+
+button {
+	font-size: 18px;
+	cursor: pointer;
+	background-color: #09b9f4;
+  	color: #FFF;
+  	border: 2px solid #09b9f4;
+  	border-radius: 10px;
+  	padding: 4px 8px;
+  	margin-top: 15px;
+}
+
+.none {
+	font-size: 28px;
+	color: #06b606;
+	margin: 2PX;
 }
 
 .strike {
 	text-decoration: line-through;
+	font-size: 28px;
+	color: #f55af3;
+	margin: 2PX;
 }
 
 .invisible {
