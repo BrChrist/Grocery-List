@@ -14,7 +14,8 @@ p {
 }
 
 button {
-	font-size: 16px;
+	font-size: 15px;
+	font-weight: bold;
 	cursor: pointer;
 	background-color: #09b9f4;
   	color: #FFF;
@@ -28,7 +29,6 @@ button {
 	font-size: 22px;
 	color: #06b606;
 	margin: 2px;
-	line-height: 24px;
 }
 
 .strike {
@@ -36,7 +36,6 @@ button {
 	font-size: 22px;
 	color: #f55af3;
 	margin: 2px;
-	line-height: 24px;
 }
 
 .invisible {
