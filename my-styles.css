@@ -11,10 +11,11 @@ h2 {
 p {
 	font-size: 14px;
 	cursor: pointer;
+	line-height: 20px;
 }
 
 button {
-	font-size: 15px;
+	font-size: 14px;
 	font-weight: bold;
 	cursor: pointer;
 	background-color: #09b9f4;
