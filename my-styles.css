@@ -27,14 +27,16 @@ button {
 .none {
 	font-size: 22px;
 	color: #06b606;
-	margin: 4PX;
+	margin: 2px;
+	line-height: 24px;
 }
 
 .strike {
 	text-decoration: line-through;
 	font-size: 22px;
 	color: #f55af3;
-	margin: 4PX;
+	margin: 2px;
+	line-height: 24px;
 }
 
 .invisible {
